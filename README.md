@@ -48,7 +48,7 @@ NeuraProof is a decentralized application (dApp) that enables Web3 freelancers t
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-repo/neuraproof.git
+git clone https://github.com/duchth1993/neuraproof.git
 cd neuraproof
 
 # Install dependencies
@@ -170,7 +170,7 @@ neuraproof/
 
 **Format:** 15 seconds, vertical (9:16), MP4/WebM
 
-1. **Scene 1 (0-3s)**: Freelancer connects MetaMask wallet with glowing animation
+1. **Scene 1 (0-3s)**: Freelancer connects Rabby wallet with glowing animation
 2. **Scene 2 (3-8s)**: Income scanning animation with data populating in real-time
 3. **Scene 3 (8-13s)**: NFT minting transaction confirmation and success celebration
 4. **Scene 4 (13-15s)**: Lender verification view showing "Verified & Valid" status
